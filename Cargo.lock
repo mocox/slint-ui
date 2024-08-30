@@ -3483,6 +3483,7 @@ dependencies = [
 name = "slint-ui"
 version = "0.1.0"
 dependencies = [
+ "rand",
  "slint",
  "slint-build",
 ]
